@@ -32,9 +32,9 @@ moto: "If you see me running, try to keep up."
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 
 # 📈 GitHub Stonks:
-![](https://github-readme-stats.vercel.app/api?username=crankyDino&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=crankyDino&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=crankyDino&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=crankyDino&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=crankyDino&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=crankyDino&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=crankydino&theme=dark&no-frame=true&no-bg=false&margin-w=4)
@@ -43,5 +43,5 @@ moto: "If you see me running, try to keep up."
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=crankydino&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=crankydino&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
