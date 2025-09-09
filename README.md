@@ -43,5 +43,5 @@ moto: "If you see me running, try to keep up."
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=crankydino&limit=5&theme=dark&combine_all_yearly_contributions=true&no-frame=true)
+![](https://github-contributor-stats.vercel.app/api?username=crankydino&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
