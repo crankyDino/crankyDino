@@ -37,15 +37,12 @@ moto: "If you see me running, try to keep up."
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=crankyDino&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=crankyDino&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![]([https://github-profile-trophy.vercel.app/?username=crankyDino&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=crankydino&theme=dark&no-frame=true&no-bg=false&margin-w=4))
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark))
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=crankyDino&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=crankyDino&icon=6&color=9)](https://visitcount.itsvg.in)
+![]([https://github-contributor-stats.vercel.app/api?username=crankyDino&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github-contributor-stats.vercel.app/api?username=crankydino&limit=5&theme=shadow_green&combine_all_yearly_contributions=true))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
