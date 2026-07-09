@@ -39,11 +39,10 @@ moto: "If you see me running, try to keep up."
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=crankydino&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=crankydino&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=crankydino&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
