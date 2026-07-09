@@ -31,6 +31,7 @@ moto: "If you see me running, try to keep up."
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 
+<!--
 # 📈 GitHub Stonks:
 ![](https://github-readme-stats.vercel.app/api?username=crankyDino&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=crankyDino&theme=dark&hide_border=true)<br/>
@@ -38,6 +39,7 @@ moto: "If you see me running, try to keep up."
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=crankydino&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
